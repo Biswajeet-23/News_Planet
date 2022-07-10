@@ -1,13 +1,10 @@
 # News Planet
-News Planet connects to the [News API](https://newsapi.org/) to retrieve Breaking News Feed based on the particular endpoint used and then displays them as a list.
 
----
+News Planet connects to the [News API](https://newsapi.org/) to retrieve Breaking News Feed based on the particular endpoint used and then displays them as a list.
 
 ## App Compatibility
 
 Android device running with Android OS 6.0 ([API Level 23](https://developer.android.com/about/versions/marshmallow/android-6.0)) or above. Designed for Phones and NOT for Tablets.
-
----
 
 ## Getting Started
 
