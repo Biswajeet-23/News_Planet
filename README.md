@@ -14,8 +14,6 @@ Android device running with Android OS 6.0 ([API Level 23](https://developer.and
 * If the above API Key is not defined, then the App will use the default **"test"** API Key which is heavily rate-limited. Whenever the rate-limit is hit, the app may crash or not display proper results.
 * The Developer API Key is also rate-limited, but not as limited as the default **"test"** API Key.
 
----
-
 ## Rubric followed for the Project
 
 * App queries the `newsapi.org` API to fetch news stories and properly parses the JSON Response.
@@ -32,8 +30,6 @@ Android device running with Android OS 6.0 ([API Level 23](https://developer.and
 	* The UI properly adjusts so that all contents of each list item is still visible and not truncated/overlapped.
 * When new News data is fetched, the main screen properly updates the new data.
 * Check whether connected to internet or not. Also, validate for any occurrence of bad server response or lack of response.
-
-#
 
 ### Things explored/developed in addition to the above defined Rubric
 
