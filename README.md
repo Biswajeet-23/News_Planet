@@ -32,6 +32,7 @@ Android device running with Android OS 6.0 ([API Level 23](https://developer.and
 * Check whether connected to internet or not. Also, validate for any occurrence of bad server response or lack of response.
 
 ### Things explored/developed in addition to the above defined Rubric
+#
 
 * Used `RecyclerView` in place of `ListView` (to display the News stories) for its advantages in performance and easy placeholders for custom item decoration.
 * `CardView` for displaying the News stories content for each News List items.
