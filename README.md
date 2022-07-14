@@ -55,6 +55,6 @@ Breaking News Page | Search News Page | Bookmarks Page
 
 ## Install
 
-* [Download the app](https://github.com/Biswajeet-23/News_Planet/blob/master/Designs/application.apk)
+* [Download the app](https://github.com/Biswajeet-23/News_Planet/raw/master/Designs/application.apk)
 * Make sure to turn on the Data network before using the app. 
 
