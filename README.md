@@ -43,3 +43,9 @@ Android device running with Android OS 6.0 ([API Level 23](https://developer.and
 * Custom Fonts for `TextViews` using `Google Fonts`.
 * Explored `CoordinatorLayout`.
 * Used `RecyclerView` in a `SwipeRefreshLayout` to use the integrated Progress/Refresh indicator.
+
+## Design
+
+Breaking News Page | Search News Page | Bookmarks Page
+--- | --- | ---
+![](https://github.com/Biswajeet-23/News_Planet/blob/master/Designs/Breaking%20News.png) | ![](https://github.com/Biswajeet-23/News_Planet/blob/master/Designs/Search.png) | ![](https://github.com/Biswajeet-23/News_Planet/blob/master/Designs/Bookmarks.png)
