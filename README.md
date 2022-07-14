@@ -1,3 +1,5 @@
+https://github.com/Biswajeet-23/News_Planet/blob/master/Designs/PLANET.png
+
 # News Planet
 
 News Planet connects to the [News API](https://newsapi.org/) to retrieve Breaking News Feed based on the particular endpoint used and then displays them as a list.
