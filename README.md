@@ -1,4 +1,4 @@
-https://github.com/Biswajeet-23/News_Planet/blob/master/Designs/PLANET.png
+![GitHub Cards Preview](https://github.com/Biswajeet-23/News_Planet/blob/master/Designs/PLANET.png)
 
 # News Planet
 
