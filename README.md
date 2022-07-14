@@ -1,3 +1,5 @@
+![GitHub Cards Preview](https://github.com/Biswajeet-23/News_Planet/blob/master/Designs/PLANET.png)
+
 # News Planet
 
 News Planet connects to the [News API](https://newsapi.org/) to retrieve Breaking News Feed based on the particular endpoint used and then displays them as a list.
@@ -43,6 +45,7 @@ Android device running with Android OS 6.0 ([API Level 23](https://developer.and
 * Custom Fonts for `TextViews` using `Google Fonts`.
 * Explored `CoordinatorLayout`.
 * Used `RecyclerView` in a `SwipeRefreshLayout` to use the integrated Progress/Refresh indicator.
+* Vector graphics editing was done using `Figma`.
 
 ## Design
 
