@@ -45,6 +45,7 @@ Android device running with Android OS 6.0 ([API Level 23](https://developer.and
 * Custom Fonts for `TextViews` using `Google Fonts`.
 * Explored `CoordinatorLayout`.
 * Used `RecyclerView` in a `SwipeRefreshLayout` to use the integrated Progress/Refresh indicator.
+* Vector graphics editing was done using `Figma`.
 
 ## Design
 
