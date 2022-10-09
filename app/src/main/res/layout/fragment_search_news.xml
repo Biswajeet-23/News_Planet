@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@color/colorPrimary"
+    style="@style/BackgroundColor"
     tools:context=".fragments.SearchNewsFragment">
 
     <com.google.android.material.card.MaterialCardView
@@ -14,14 +14,13 @@
         android:layout_margin="16dp"
         app:cardCornerRadius="8dp"
         android:elevation="4dp"
-        app:cardBackgroundColor="@color/white"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:background="@color/white"
+            style="@style/cardColor"
             android:layout_height="match_parent">
             
             <com.google.android.material.textfield.TextInputLayout
@@ -30,7 +29,7 @@
                 android:id="@+id/textInputLayout"
                 android:hint="@string/search"
                 android:textColorHint="@color/bgLineColor"
-                app:boxBackgroundColor="@color/white"
+                style="@style/cardColor"
                 app:endIconMode="custom"
                 app:endIconContentDescription="search"
                 app:endIconDrawable="@drawable/ic_search"
@@ -44,7 +43,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:id="@+id/etSearch"
-                    android:inputType="text"/>
+                    android:inputType="text"
+                    style="@style/cardColor"/>
 
 
 

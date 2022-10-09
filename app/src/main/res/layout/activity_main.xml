@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimary"
+    style="@style/BackgroundColor"
     tools:context=".MainActivity">
 
     <FrameLayout
@@ -31,7 +31,7 @@
         android:layout_width="0dp"
         android:layout_height="56dp"
         android:id="@+id/bottomNavigationView"
-        android:background="@color/colorPrimary"
+        style="@style/cardColor"
         app:labelVisibilityMode="selected"
         app:menu="@menu/bottom_navbar_menu"
         app:layout_constraintBottom_toBottomOf="parent"

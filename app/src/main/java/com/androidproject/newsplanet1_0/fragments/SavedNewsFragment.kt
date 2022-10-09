@@ -75,7 +75,9 @@ class SavedNewsFragment : Fragment(R.layout.fragment_saved_news) {
     }
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        viewModel = (activity as MainActivity).viewModel
+        val newsRepository = NewsRepository(ArticleDatabase(requireActivity()))
+        val viewModelProvider = NewsViewModelFactory(newsRepository)
+        viewModel = ViewModelProvider(this, viewModelProvider).get(NewsViewModel::class.java)
         setupRecyclerView()
         setViewModelObserver()
     }

@@ -16,12 +16,12 @@
         android:layout_marginBottom="8dp"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
-        app:cardBackgroundColor="@color/card_color"
+        style="@style/cardColor"
         app:cardCornerRadius="8dp"
         app:cardElevation="4dp">
 
         <androidx.constraintlayout.widget.ConstraintLayout
-            android:background="@color/card_color"
+            style="@style/cardColor"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 

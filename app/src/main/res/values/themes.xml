@@ -30,4 +30,12 @@
         <item name="android:textColor">@color/subTitleTextColor</item>
         <item name="fontFamily">@font/aileron_thin</item>
     </style>
+
+    <style name="BackgroundColor">
+        <item name="android:background">@color/lightModeBg</item>
+    </style>
+
+    <style name="cardColor">
+        <item name="android:background">@color/card_color</item>
+    </style>
 </resources>

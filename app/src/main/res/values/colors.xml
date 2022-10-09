@@ -5,9 +5,14 @@
     <color name="colorAccent">#FF9800</color>
     <color name="titleTextColor">#131214</color>
     <color name="subTitleTextColor">#333233</color>
-    <color name="bgLineColor">#606470</color>
     <color name="background">#dddddd</color>
-    <color name="card_color">#2e343d</color>
     <color name="white">#FFFFFF</color>
     <color name="black">#131214</color>
+
+    <color name="bgLineColor">#D9D9D9</color>
+    <color name="lightModeBg">#FFFFFF</color>
+    <color name="card_color">#6263A4</color>
+
+    <color name="darkModeBg">#1F243D</color>
+    <color name="darkMode_card_color">#535875</color>
 </resources>

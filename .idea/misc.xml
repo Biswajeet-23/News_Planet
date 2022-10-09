@@ -8,14 +8,21 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/drawable/ic_launcher_backgrounds.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/drawable/ic_like.xml" value="0.1" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/layout/activity_main.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/drawable/ic_liked.xml" value="0.1855" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/drawable/ic_news.xml" value="0.1855" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/drawable/ic_save.xml" value="0.1855" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/drawable/ic_saved.xml" value="0.1855" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/drawable/ic_search.xml" value="0.1855" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/drawable/ic_share.xml" value="0.1855" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/layout/fragment_article.xml" value="0.2" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/layout/fragment_breaking_news.xml" value="0.10185185185185185" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/layout/fragment_saved_news.xml" value="0.14356884057971014" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/layout/fragment_search_news.xml" value="0.2" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/layout/item__article.xml" value="0.14945652173913043" />
-        <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/layout/item_article.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/layout/item_article.xml" value="0.264" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/layout/item_saved_news.xml" value="0.103596757852077" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/menu/bottom_navbar_menu.xml" value="0.275" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/NewsPlanet1_0/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>

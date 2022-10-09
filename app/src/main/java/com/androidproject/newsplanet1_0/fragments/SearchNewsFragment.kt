@@ -35,6 +35,7 @@ class SearchNewsFragment : Fragment(R.layout.fragment_search_news) {
     lateinit var viewModel: NewsViewModel
     lateinit var newsAdapter: ArticleAdapter
     val TAG = "SearchNewsFragment"
+
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         val newsRepository = NewsRepository(ArticleDatabase(requireActivity()))
