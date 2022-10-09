@@ -23,7 +23,7 @@ Android device running with Android OS 6.0 ([API Level 23](https://developer.and
 	* Title of the article.
 	* Source name of the article if present.
 	* Published date and time of the article if present.
-* Default text field is remains empty when any of the above parsed information is not available.
+* Default text field remains empty when any of the above parsed information is not available.
 * Networking operations are handled by Retrofit library.
 * Clicking on a story, redirects and opens the story in user's browser.
 * On device rotation
